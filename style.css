@@ -1,0 +1,26 @@
+.my_Nav_bar{
+    position: sticky;
+    top: 0;
+    z-index: index 99999; ;
+}
+.travel_mainDiv{
+    border: 1px solid lightgrey;
+}
+.travel_mainDiv{
+    width: 100%;
+}
+.travel_mainDiv{
+    margin: 20px;
+}
+.Achievement_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.Achievement_head i{
+    float: right;
+}
+.Achievement_text span{
+    color: orange;
+}
